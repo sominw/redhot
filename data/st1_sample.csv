@@ -1,0 +1,11 @@
+post_id,subreddit_id,stage1_labels
+rpzuhe,t5_2qlaa,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":501,""label"":""per_exp"",""startOffset"":152},{""endOffset"":861,""label"":""per_exp"",""startOffset"":635},{""endOffset"":899,""label"":""question"",""startOffset"":862}]}}]"
+s5ln4e,t5_2tyg2,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":266,""label"":""per_exp"",""startOffset"":57}]}}]"
+ptzw1x,t5_2r876,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":225,""label"":""claim"",""startOffset"":38},{""endOffset"":335,""label"":""question"",""startOffset"":227},{""endOffset"":396,""label"":""question"",""startOffset"":337},{""endOffset"":479,""label"":""question"",""startOffset"":397},{""endOffset"":1133,""label"":""per_exp"",""startOffset"":481}]}}]"
+psr7e3,t5_2r876,"[{""crowd-entity-annotation"":{""entities"":[]}}]"
+ryrrom,t5_2rtve,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":53,""label"":""question"",""startOffset"":16},{""endOffset"":116,""label"":""question"",""startOffset"":96}]}}]"
+rd97yi,t5_2syer,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":153,""label"":""per_exp"",""startOffset"":27},{""endOffset"":259,""label"":""per_exp"",""startOffset"":155},{""endOffset"":674,""label"":""question"",""startOffset"":587}]}}]"
+s3bfss,t5_2saq9,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":150,""label"":""per_exp"",""startOffset"":128},{""endOffset"":243,""label"":""per_exp"",""startOffset"":181}]}}]"
+srtnup,t5_2r876,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":87,""label"":""question"",""startOffset"":22},{""endOffset"":375,""label"":""claim_per_exp"",""startOffset"":171},{""endOffset"":948,""label"":""question"",""startOffset"":776},{""endOffset"":1347,""label"":""question"",""startOffset"":1207}]}}]"
+smy7j7,t5_2s3g1,"[{""crowd-entity-annotation"":{""entities"":[{""endOffset"":219,""label"":""claim_per_exp"",""startOffset"":16},{""endOffset"":245,""label"":""question"",""startOffset"":221}]}}]"
+sj5v5l,t5_2s23e,"[{""crowd-entity-annotation"":{""entities"":[]}}]"
